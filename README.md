@@ -51,9 +51,8 @@ Cara deploy: push repository ke GitHub, lalu buka **Settings → Pages → Deplo
 
 ## Anggota Kelompok
 _(isi nama dan NIM/kelas anggota kelompok di sini, contoh:)_
-- Nama Lengkap 1 — NIM
-- Nama Lengkap 2 — NIM
-- Nama Lengkap 3 — NIM
+- Muhammad Akmal Albantani — 3337250177
+- Radot — 3337250
 
 ## Contoh Commit
 - `feat: add responsive navigation`
