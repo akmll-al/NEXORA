@@ -50,10 +50,3 @@ NEXORA/
 ## Anggota Kelompok
 - Muhammad Akmal Albantani — 3337250177
 - Raditya Ridwan — 3337250065
-
-## Commit
-- `feat: add responsive navigation`
-- `feat: add technology and cybersecurity pages`
-- `feat: add dark light mode`
-- `style: improve responsive layout`
-- `docs: update project README`
