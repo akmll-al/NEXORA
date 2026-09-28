@@ -45,16 +45,13 @@ NEXORA/
 6. Uji hamburger menu dan tombol tema Dark futuristic blue
 
 ## GitHub Pages / Live Demo
-**Live Demo:** _(isi dengan link GitHub Pages setelah repository di-push, contoh: `https://USERNAME.github.io/NAMA-REPOSITORY/`)_
-
-Cara deploy: push repository ke GitHub, lalu buka **Settings → Pages → Deploy from a branch**, pilih branch utama (biasanya `main`) dan folder `/root`, lalu simpan. Tautan demo akan aktif beberapa menit setelah disimpan.
+**Live Demo:** _https://github.com/akmll-al/nexora-website_
 
 ## Anggota Kelompok
-_(isi nama dan NIM/kelas anggota kelompok di sini, contoh:)_
 - Muhammad Akmal Albantani — 3337250177
 - Radot — 3337250
 
-## Contoh Commit
+## Commit
 - `feat: add responsive navigation`
 - `feat: add technology and cybersecurity pages`
 - `feat: add dark light mode`
