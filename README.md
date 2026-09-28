@@ -49,7 +49,7 @@ NEXORA/
 
 ## Anggota Kelompok
 - Muhammad Akmal Albantani — 3337250177
-- Radot — 3337250
+- Raditya Ridwan — 3337250065
 
 ## Commit
 - `feat: add responsive navigation`
