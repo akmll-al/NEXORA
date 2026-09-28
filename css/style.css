@@ -45,3 +45,45 @@ details p{padding:0 20px 20px;color:var(--muted)}
 .material-wrap{padding:45px 7%}
 .material-hero{padding:55px 7% 35px}
 }
+
+/* Flexbox */
+.buttons {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+/* Responsive untuk layar kecil */
+@media (max-width: 800px) {
+  .buttons {
+    flex-direction: column;
+  }
+
+  .buttons .btn {
+    width: 100%;
+    text-align: center;
+  }
+
+  .hero-content {
+    width: 100%;
+  }
+
+  .material-card {
+    width: 100%;
+  }
+}
+
+/* Responsive tambahan untuk HP kecil */
+@media (max-width: 480px) {
+  .hero h1 {
+    font-size: 36px;
+  }
+
+  .material-section h2 {
+    font-size: 26px;
+  }
+
+  .material-hero h1 {
+    font-size: 34px;
+  }
+}
